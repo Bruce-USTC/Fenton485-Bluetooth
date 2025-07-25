@@ -1,0 +1,14 @@
+.\obj\misc.o: Source\STM32F10x_StdPeriph_Driver\src\misc.c
+.\obj\misc.o: .\Source\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\misc.o: .\Source\CMSIS\Core\CM3\stm32f10x.h
+.\obj\misc.o: .\Source\CMSIS\Core\CM3\core_cm3.h
+.\obj\misc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\misc.o: .\Source\CMSIS\Core\CM3\system_stm32f10x.h
+.\obj\misc.o: .\Source\User\Main\stm32f10x_conf.h
+.\obj\misc.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\obj\misc.o: .\Source\CMSIS\Core\CM3\stm32f10x.h
+.\obj\misc.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\misc.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\misc.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\obj\misc.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\misc.o: .\Source\STM32F10x_StdPeriph_Driver\inc\misc.h
